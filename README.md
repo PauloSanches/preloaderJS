@@ -1,4 +1,17 @@
-preloaderJS
-===========
+PreloaderJS [![Build Status](https://travis-ci.org/PauloSanches/PreloaderJS.svg?branch=master)](https://travis-ci.org/PauloSanches/PreloaderJS)
+==========
 
-Javascript library for preload images
+javascript library for prelaod images
+
+## Getting Started
+Just create an instance of PreloaderJS and pass params
+````js
+var preloader = new snch.PreloaderJS(['ui_sprite.png','logo.jpg','social_sprite.png'], onComplete]);
+````
+
+## Params
+
+| Parameter     | Description       |
+|---------------|-------------------|
+| dependencies      | Array of dependencies     |
+| callback      | Function  return dependencies loaded   |
