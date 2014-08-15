@@ -7,6 +7,10 @@ javascript library for prelaod images
 Just create an instance of PreloaderJS and pass params
 ````js
 var preloader = new snch.PreloaderJS(['ui_sprite.png','logo.jpg','social_sprite.png'], onComplete]);
+
+function onComplete(data) {
+  // data is dependencies loaded
+}
 ````
 
 ## Params
