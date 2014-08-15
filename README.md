@@ -1,4 +1,4 @@
-PreloaderJS [![Build Status](https://travis-ci.org/PauloSanches/PreloaderJS.svg?branch=master)](https://travis-ci.org/PauloSanches/PreloaderJS)
+PreloaderJS [![Build Status](https://travis-ci.org/PauloSanches/preloaderJS.svg?branch=master)](https://travis-ci.org/PauloSanches/preloaderJS)
 ==========
 
 javascript library for prelaod images
