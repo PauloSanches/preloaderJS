@@ -2,7 +2,7 @@
 
 module.exports = {
   dist: './build/',
-  output: 'index.js',
-  outputMin: 'index.min.js',
+  output: 'preloader.js',
+  outputMin: 'preloader.min.js',
   scripts: ['src/index.js']
 };
